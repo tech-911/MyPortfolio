@@ -269,7 +269,7 @@ select {
 }
 
 #toggle {
-    height: 60px;
+    height: 100px;
     padding: 20px 0;
     position: relative;
     background-color: #333333;

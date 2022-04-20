@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-    <title>@yield('title', 'A big weclome to you: Damilare Emmanuel')</title>
+    <title>@yield('title', 'A big weclome to you: Babatunde Olatunji')</title>
     
     @include('roots._css')
 
@@ -14,7 +14,7 @@
         <tbody>
             <tr>
                 <td>
-                    <img src="{{ asset('images/ajax-document-loader.gif') }}" alt="Loading...">
+                    <img src="{{ asset('images/bbt-logo.png') }}" alt="Loading...">
                 </td>
             </tr>
         </tbody>

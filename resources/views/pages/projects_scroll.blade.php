@@ -9,7 +9,7 @@
         <div id="content" class="site-content">
             <div class="full-screen-scroll">
                 <ul id="cbp-bislideshow" class="cbp-bislideshow scroll">
-                    <li style="background-image: url('demo-images/featured-image.jpg');">
+                    <li style="background-image: url('demo-images/home1.jpg');">
                         <article class="entry-holder">
                             <h2 class="entry-title">
                                 <a href="single.html">Whatever is begun in anger ends in shame</a>
